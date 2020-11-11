@@ -18,3 +18,8 @@ Task 3 of the AML course at ETHZ. We turn now to the classification of entire ti
 1. Strecht or compress signal in order to add noise [here](https://www.sciencedirect.com/science/article/pii/S1566253518307632)
 2. Random masking [here](https://arxiv.org/abs/1708.04552)
 3. Normalization
+
+## Amelioration:
+1. Trouver d'autre maniere de pre-process les data sets (mask, strecht etc.)
+2. Modifier Neural Network (cf. paper ATTENTION au computation time)
+3. Hyper parameter
