@@ -7,6 +7,7 @@ Task 3 of the AML course at ETHZ. We turn now to the classification of entire ti
 * [Multi-class Arrhythmia detection from 12-lead varied-length ECG using Attention-based Time-Incremental Convolutional Neural Network](https://www.sciencedirect.com/science/article/pii/S1566253518307632) pre-processing info + neural network achitecture
 * [Improved Regularization of Convolutional Neural Networks with Cutout - MAKSED](https://arxiv.org/abs/1708.04552)
 * [Time series classification (simple method)](https://www.analyticsvidhya.com/blog/2019/01/introduction-time-series-classification/)
+* [Time series classification (complex method)](https://arxiv.org/pdf/1611.06455.pdf)
 ## Ideas :
 1. Trouver les features qui caracterisent un ECG
 2. Pour chacune des times series d'ECG, calculer les features precedement trouver
