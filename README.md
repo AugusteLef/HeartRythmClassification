@@ -8,19 +8,3 @@ Task 3 of the AML course at ETHZ. We turn now to the classification of entire ti
 * [Improved Regularization of Convolutional Neural Networks with Cutout - MAKSED](https://arxiv.org/abs/1708.04552)
 * [Time series classification (simple method)](https://www.analyticsvidhya.com/blog/2019/01/introduction-time-series-classification/)
 * [Time series classification (complex method)](https://arxiv.org/pdf/1611.06455.pdf) (check 2.A Multilayer Perceptron)
-## Ideas :
-1. Trouver les features qui caracterisent un ECG
-2. Pour chacune des times series d'ECG, calculer les features precedement trouver
-3. features seclection etc
-4. creer un model et le train 
-5. predictions
-
-## Data Processing :
-1. Strecht or compress signal in order to add noise [here](https://www.sciencedirect.com/science/article/pii/S1566253518307632)
-2. Random masking [here](https://arxiv.org/abs/1708.04552)
-3. Normalization
-
-## Amelioration:
-1. Trouver d'autre maniere de pre-process les data sets (mask, strecht etc.)
-2. Modifier Neural Network (cf. paper ATTENTION au computation time)
-3. Hyper parameter
